@@ -11,7 +11,7 @@ int main() {
     char nome[20];
     char codigoCarta[4];
     int populacao, nPontosTuristicos;
-    float area, pib;
+    float area, pib; 
 
     // dados da segunda carta
     char estado2;
